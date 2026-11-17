@@ -11,3 +11,4 @@ Repositório da dupla para as entregas da disciplina GBC063 — Inteligência Ar
 | Desafio | Conteúdo | Pasta |
 |---------|----------|-------|
 | 1 | Descrição do problema: ambiente, estado markoviano, ações e recompensas (apresentação em 29/10/2026) | [desafio1](desafio1/) |
+| 2 | DQN (Stable-Baselines3) no robô aspirador: código, modelos treinados e gráficos (resultados mostrados em 12/11/2026) | [desafio2](desafio2/) |
